@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(194, 193, 190);
+}
+.form-control{
+    display: inline-block;
+    width: 90%;
+}
+.btn{
+    display: inline-block;
+    margin-left: 20px;
+    width: max-content;
+}
+.list-group-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
